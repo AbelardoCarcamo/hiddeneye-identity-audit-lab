@@ -206,7 +206,7 @@ Activación del túnel para la visibilidad externa del sitio. Parámetros utiliz
  
 ---
  
-*Laboratorio académico — Universidad Tecnológica de Panamá · Ciberseguridad III · 2026*
+*Laboratorio académico — 2026*
  
 </div>
  
