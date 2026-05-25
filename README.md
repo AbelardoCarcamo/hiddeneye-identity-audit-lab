@@ -12,7 +12,7 @@
 ---
  
 </div>
-# Declaración Ética
+## Declaración Ética
  
 > [!WARNING]
 > Este repositorio documenta un procedimiento técnico desarrollado en un **entorno de laboratorio aislado**, con fines académicos y de investigación en ciberseguridad. El autor **no se hace responsable** por el uso indebido de las herramientas aquí documentadas. El uso de estas técnicas fuera de un marco académico o profesional autorizado puede constituir un **delito informático** conforme a la legislación vigente.
